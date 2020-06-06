@@ -1,1 +1,1 @@
-! [image of adacot](https://octodex.github.com/images/adacot.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
